@@ -26,10 +26,10 @@ You can check the notebook by clicking [here](https://github.com/Srirama0/Custom
 
 :star::star::smile::fire::cake::angry:
 
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-https://github.com/mrdbourke/nutrify
-https://github.com/scikit-learn/scikit-learn
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-https://github.com/abhishekkrthakur?tab=repositories
-https://github.com/mrdbourke?tab=repositories
+<br>https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+<br>https://github.com/mrdbourke/nutrify
+<br>https://github.com/scikit-learn/scikit-learn
+<br>https://github.com/abhisheknaiidu/awesome-github-profile-readme
+<br>https://github.com/abhishekkrthakur?tab=repositories
+<br>https://github.com/mrdbourke?tab=repositories
 
