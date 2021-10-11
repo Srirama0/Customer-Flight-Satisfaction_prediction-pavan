@@ -25,3 +25,11 @@ The dataset consist of information of passengers boarding and deboarding informa
 You can check the notebook by clicking [here](https://github.com/Srirama0/Customer-Flight-Satisfaction_prediction-pavan/blob/main/Flight%20Passenger%20Satisfaction%20Prediction.ipynb).
 
 :star::star::smile::fire::cake::angry:
+
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+https://github.com/mrdbourke/nutrify
+https://github.com/scikit-learn/scikit-learn
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/abhishekkrthakur?tab=repositories
+https://github.com/mrdbourke?tab=repositories
+
