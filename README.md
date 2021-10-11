@@ -20,7 +20,7 @@ The dataset consist of information of passengers boarding and deboarding informa
 |Gender|Gender of the Passenger|
 |Satisfaction |If the passenger is satisfied or not|
 
-![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmECIYAxzZRwUqarAuW8uj7UZzonFa6fHTg&usqp=CAU)
+![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmECIYAxzZRwUqarAuW8uj7UZzonFa6fHTg&usqp=CAU?raw=TRUE)
 
 You can check the notebook by clicking [here](https://github.com/Srirama0/Customer-Flight-Satisfaction_prediction-pavan/blob/main/Flight%20Passenger%20Satisfaction%20Prediction.ipynb).
 
